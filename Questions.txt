@@ -1,0 +1,520 @@
+NXP Interviews Questions 2020-2024 Batch
+[11:17 am, 16/03/2023] URUGONDA JAHNAVI: 20B01A05H2 
+Questions asked in interview 
+1. About Projects 
+2. Three programs : 
+i.) Remove the duplicate elements from the list
+ii.) Fill spaces of a string with given character 
+iii.) max frequency of given character in a string.
+
+3.)Python Questions : 
+     Diff blw list and set 
+     How memory management takes place in python 
+    Diff blw mutable and immutable 
+ 4.) Java questions: 
+       Oops concepts 
+        Diff blw instance and local               variables  
+        Method overloading and overriding 
+       Some Tricky questions in java
+[11:29 am, 16/03/2023] CHILAMKURTHI BHAVEENA SRI: 20B01A0527
+Questions asked in interview 
+Introduce yourself
+1. About Projects 
+2. Operating systems
+3.)Python Questions : 
+     Live hands on coding  on lists, tuples
+   In Java constructors, interfaces example codes
+ 4.) Java questions:
+       Oops concepts(abstract classes, interfaces) 
+ 5) microcontroller and micro processor difference
+6) real time applications on certain situations in os like hard real time operating system and soft real time operating systems
+[11:30 am, 16/03/2023] VUNNAM VAISHALINI: 20B01A05I7
+1. Asked about some courses I mentioned in my resume .. what I have done and learnt from that..
+2. OOP concepts
+3. Diff b/w java and python
+4.about platform independent 
+5. JDK, JRE, JVM diff
+
+About projects ..
+Asked what I done in my python project.
+Asked deeply about my java project… where asked to draw a flowchart how I done and asked about oops concepts used in that project and told to write code how I implemented that oop concept in my project.
+Asked sql queries related to project
+
+At last, asked why u choosen nxp
+[11:36 am, 16/03/2023] DANDU VENKATA SAI MANASWINI: 20B01A0536
+1. Introduce yourself
+2. Extra Curricular activities
+3. Projects
+4. python features
+5. function to reverse a number
+6. Python Regex method
+7. Discussion on resume
+[11:43 am, 16/03/2023] YANNAM SREELEKHA: 20B01A05J0
+
+1.Tell me about yourself
+2.Questions based on our resume
+3.Java theoretical concepts like abstraction, inheritance along with real time examples
+4.Why Java is platform independent? Have you checked it by doing bytecode.
+5.operating systems questions from basics
+6.Pointers
+
+
+Coding questions :
+1) Number of primes and print them in a given range ... write with less complexity possible
+2) String formatting and string builder
+
+
+Questions that you solved on hacker rank and other coding platforms..... asked to screen share and show them
+[11:43 am, 16/03/2023] YANNAM SREELEKHA: Project discussion
+[11:44 am, 16/03/2023] +91 95153 38053: 20B01A12I2
+1.Difference between C and Java
+2.what is an operating system
+3.linux commands 
+4.Given an array and you have to sort the array
+5. Definition of structure in c
+[11:47 am, 16/03/2023] +91 6305 960 709: 20B01A04G5 
+1. Tell me about yourself
+2. Questions related to project.
+3. C theoretical concept like structures, unions, identifiers.
+4. Addition of 2 numbers using functions.
+[11:51 am, 16/03/2023] GRANDHI LIKHITHA SRIYA: 20B01A0553
+Questions asked in interview 
+1.Introduce yourself
+2. About Projects 
+3.Given a sentence find how many times a particular character is present how many number of times and indices of that character in that sentence .
+Both in python and Java.
+[11:56 am, 16/03/2023] GRANDHI RAMYA VYSHNAVI: 20B01A0555
+Questions asked in interview 
+1.Introduce yourself
+2. About Projects 
+3.c code &Java  code is given and ask for answer 
+4.questions on static variable and Java used situations than other languages.
+5.quick sort
+[11:59 am, 16/03/2023] +91 6301 843 175: 20b01a0443
+Question asked in interview:
+1.Introduction 
+2.Particularly about Java and C
+3.bubble sorting algorithm or code
+4.prime numbers code in c 
+5.oops concept 
+6.asked to explain the projects in python and c( if we have a project on Java prepare that also).
+[0:04 pm, 16/03/2023] +91 81066 39277: 20B01A0401
+ self intro
+1. what is qualifiers in c
+2. what structure and it's declaration
+3. pointers, pointers declaration, pointers using function (code)
+4. write a code in c to add two numbers using functions
+5. what is call by value, call by reference
+6. projects
+7. python list, tuple,set differences
+8. difference between java and c
+9. what is microcontrollers & microprocessors and their differences
+10. examples for peripherals
+11. ADC, timers
+[0:09 pm, 16/03/2023] +91 70756 08291: 20B01A1284
+ 1.self intro
+ 2.projects explaination
+ 3.number series(aptitude)
+ 4.decimal to binary, hexadecimal to binary,binary to hexadecimal
+ 5.c vs Java
+ 6.oops concepts
+ 7.rasberrry pi 
+ 8.public static void main in Java (why it is main not another, name and explain in detail that function)
+ 9.given array and sort it.     10.what is os and examples.
+[0:11 pm, 16/03/2023] +91 95153 21656: 20B01A0436
+1.Self Intro
+2. About C 
+3.Functions in C
+4.Macros
+5.Program to swap 2 bits 
+6.Aptitude questions
+[0:13 pm, 16/03/2023] +91 89196 24671: 20B01A12B9
+1.self intro
+2.projects
+3.fibbnocci series
+4.sorting technique
+5.print prime numbers between 10 to 50
+6.diiference between i++ and ++i
+ 7.oop concepts
+8.data types in c with size
+9.difference between calloc and malloc
+10.differnce between structure and union
+11.Scope variables
+[0:19 pm, 16/03/2023] +91 95534 44386: 20b01a04f2
+1.self intro
+2. About projects 
+3. Programming languages
+4.fibbonaci series prgm in c 
+5. Convert decimal to binary,decimal to octal ,decimal to hexadecimal prgm
+6.flip flops
+7. About operating system
+8.previously done internship details
+9.truth tables of xnor and xor 
+10. About nxp semiconductor company
+[0:33 pm, 16/03/2023] CHIKKALA HEMA SRI: 20B01A0526 
+1.self intro
+2.project
+3.pointers in C
+4.Explain scheduling and types with a C program 
+5.method overloading with example
+6.Data structures used in your project
+7.Quick sort with example
+8.Access modifiers
+9.static keyword
+[0:41 pm, 16/03/2023] +91 6304 528 539: 20B01A0486 
+1. Projects
+2. Pointers 
+3. Structures and union differences 
+4. Functions in Structures
+5. List, tuple, dictionary differences with example
+6. Kirchoffs law
+7. Nyquist rate
+8. Structure with example
+[0:43 pm, 16/03/2023] MALLELA VENKATA SATYA RISHITHA: 20B01A05A0
+1.self intro
+2.projects
+3.pointers
+4.aptitude ques
+[0:53 pm, 16/03/2023] KARICHARLA MONIKA SAI: 20B01A0575
+1.Self Introduction 
+2.Structures unions
+3.Pointers
+4.List manipulations
+5.Any Python programs
+6.new keyword in Java
+7.constructors, class in java
+[1:24 pm, 16/03/2023] MADUGULA MEENAKSHI: 20B01A0597 
+self intro
+Projects
+Processors
+Bit manipulations
+One's complement
+Two's complement
+Swaping of two numbers using bit manipulation
+Implementation of signed and unsigned bits in binary format
+Own stack implementation
+[1:28 pm, 16/03/2023] CHERUKU SATYA NAGA RAMALAKSHMI TRIGUNA: 20B01A0521 
+1.Self intro
+2.Projects
+3. C vs python
+4. Memory management in c and python 
+5.Entry point function in python
+6.Different approaches of even number code and tracing
+7.count set bits code and tracing
+8.reverse number code and tracing
+9.flip bits logic and tracing
+10.check if a number is expressed as a power of 2 and relation between this and count setbit
+11.5th and 6th semester subjects
+12.Machine learning definition and example 
+13.About few problems i have solved from hackerrank 
+14.What is datastructures and its use.
+15.Insert data at a given position in an array and linkedlist
+16.bitwise and vs logical and
+17.Implement linkedlist
+18.Stacks and operations on stacks
+[1:33 pm, 16/03/2023] KANNIKANTI GAYATHRI: 20B01A0570
+1.Self intro
+2.project explanation and role in it
+3.oops principle
+4.Dictionaries and lists
+5.reversing given date
+6.String conversion
+7.Some Linux commands
+8.Dbms commands
+9.any knowledge on machine learning models
+[1:39 pm, 16/03/2023] VADDADI VENKATA PADMA SRI: 20B01A05H5
+1.self intro 
+2.projects
+3. Dangling Pointers , void pointers, constant pointers
+4. Code snippets on pointers
+5.asked to write basic code used in my project and my role  in it
+6. Basic class program in python
+7. Bit manipulation
+8.dynamic memory allocation in c
+9. #define preprocessor in c
+10. Enum in c
+11.C data types
+[1:43 pm, 16/03/2023] SUSMITHA PERIKALA: 20B01A05G5
+Intro
+Explain any 1 project
+basic python coding questions
+Theory questions on Pointers
+Dynamic memory allocation in C
+OOPS concepts implementation 
+Questions on my resume
+[2:05 pm, 16/03/2023] MUNDRA ISWARYA: 20B01A05B7
+1.Intro
+2.projects
+3.arrays,pointers difference 
+4.structures,union difference and structure 
+5.pointer of pointer declaration and structure
+6.malloc,calloc difference,syntax
+7.difference between pointer,const pointer
+8.list,tuple differences
+9.User defined ,pre defined data types in c
+10.program to read text file and print unique string in that file(python)
+[2:23 pm, 16/03/2023] SANJANA RACHUMALLU: 20B01A05F7
+1.Intro
+2.projects
+3. lot of questions about projects
+4.SDLC'S
+5.check whether a string is palindrome or not
+6.robot process automation
+7.one general aptitude question
+8.about nxp
+[2:30 pm, 16/03/2023] LATIKA HEMA AMRUTHA: 20B01A0594
+Intro
+About Projects 
+Machine learning
+Svm and knn
+Types of kernels in svm 
+Time complexity
+Bit manipulation 
+Data structures (Linked list)
+Different ways of implementing fibonacci series (optimised code)
+Duplicate elements in array (optimised code )
+[2:39 pm, 16/03/2023] AREPALLI LAKSHMI SAI TEJA: 20B01A0507
+Self Introduction 
+About projects
+Java
+Implementation of Method overloading and method overriding 
+Python(lists ,tuples)
+Javascript
+[3:04 pm, 16/03/2023] +91 91215 52248: 20B01A12E9
+Self intro
+Projects
+Storage classes in c
+About preprocessors
+Static in c
+About scope
+Implementation of static in c using some function.
+Difference between static in c and java
+Questions on all projects I have done 
+Macros
+Difference between list and tuple
+Method overloading and method overriding
+[3:11 pm, 16/03/2023] DWARAMPUDI PRAVALLI SATYA: 20B01A0541
+self intro
+Projects
+Internship
+List vs dictionary 
+Memory management
+Pre allocation in python
+Garbage collection
+[3:23 pm, 16/03/2023] REPAKA M N V SRIDHANVI: 20B01A05E5
+self intro
+Programs:
+1. String concatenation
+2. Sum of n numbers
+3. Frequency of characters in string
+4. Bit wise xor operation
+Os questions:
+What is os
+Functionalities of Os
+Process scheduling algorithms
+Java :
+What is constructor and why it is used
+[3:34 pm, 16/03/2023] CHIGATAPU RAMYA: 20B01A0525
+There are 2 interviewers
+-Self intro
+-Projects
+-When to use java and python
+-JVM 
+-byte code related questions 
+-features of java
+-abstraction
+-inheritance with examples and askng tricky questions for those examples
+-method overloading and overriding with examples
+-comparators in java
+-collections
+-new keyword
+-how to create a arraylist with type object
+-equals method strings
+-System.out.println explanation
+-pointers in c
+-difference between normal and pointer variables
+-sorting in java
+-data types in java
+-constructors in java
+-Integer class of java
+-storage classes in c
+-static keyword in c
+-macros and how to define macro that gives sum by taking two variables
+-2 code snippets given and predict output
+-memory mapping of a cprogram
+-compilation s…
+[3:47 pm, 16/03/2023] NEELISETTY HARSHITA: 20B01A05C6
+There are two interviewers
+-> self intro
+-> lot of questions on project
+-> asked to draw high level design of project
+-> what is embedded systems
+-> explain about microprocessor 
+-> asked why servelets
+-> asked to explain different steps in connecting JDBC
+-> syntax for resultset for retrieval of database
+-> explain about polymorphism
+-> write code for method overriding
+-> tracing of code
+-> asked to reverse sentence with multiple approaches
+-> asked to check whether word is present or not in string
+-> bubble sort code and explanation
+-> access modifiers 
+-> difference between default and protected
+-> stack implementation of linkedlist
+-> about bits
+[3:51 pm, 16/03/2023] YANNAM SREELEKHA: 20B01A05J0
+
+1.Tell me about yourself
+2.Questions based on our resume
+3.Java theoretical concepts like abstraction, inheritance along with real time examples
+4.Why Java is platform independent? Have you checked it by doing bytecode.
+5.operating systems questions from basics
+6.Pointers
+
+
+Coding questions :
+1) Number of primes and print them in a given range ... write with less complexity possible
+2) String formatting and string builder
+
+
+Questions that you solved on hacker rank and other coding platforms..... asked to screen share and show them
+[3:59 pm, 16/03/2023] VANKAYALA MEGHANA SRI SAI VASAVI: 20B01A05H7
+Self intro
+Projects
+Differences between java and c
+Pointers,union,structures
+Oops concepts
+Differences between JVM,JRE,JDK
+What are various types of access modifiers
+scope of variable
+Asked to reverse elements in array
+Differences between method overloading and overriding
+Asked to check whether given number is palindrome or not
+[4:12 pm, 16/03/2023] PALURI SITA SOWMYA: 20B01A5D0
+- self intro
+- projects
+- how and where variables are stored when we declare in python 
+- what is shallow memory and deep memory and their differences and which is faster
+- csv module how and where do we use it
+- which is faster when searching an element: tuple, dictionary, list
+- different types of implementation of list, tuple and dictionary
+- what is main method in python
+- how do we implement main method in python 
+- what is the meaning of if _name_ = "_main_":    and what is name in this statement and what it is called
+- how and when to create dictionary from a list and purpose of the convertion
+- what is the internal process that is done when we run the program in python
+- garbage collection in python
+- which variables are stored in stack mem…
+[4:23 pm, 16/03/2023] +91 6305 153 365: 20B01A0482 (Hardware)
+
+1.Tell me about yourself
+2. Questions on synchronous and asynchronous counters
+3.why asynchronous counters are more complex
+4.2 bit up counter waveform
+5.clock and divide by 2 of that clock wave form
+6.what is race around condition in jk flip flop
+7.jk to d flip flop conversion
+8.asynchronous counter for random sequence
+9.xor gate as not gate
+10. Gates using 2×1 mux
+11.xor used as comparator
+12.verilog code for 3 bit counter
+13.difference between latches and flip flop
+14.reason for reason for more power consumption in flipflops
+15.setup time and hold time in vlsi
+16. propogation delay and capacitance relations
+17. Propogation delay and transition state relations
+18.basics in verilog 
+19. Behavioral and structural modelling modules for 2×1 mux
+20.The project I have done on verilog
+[4:48 pm, 16/03/2023] +91 79890 51389: 1.self intro
+
+2. Completely on java and c oop concepts and memory management
+
+3. Regarding java collections and methods in it. Asked about different classes
+
+4. Given a lot of code snippets and asked to predict the answer went deep into it.
+[4:55 pm, 16/03/2023] SHAIK CHANDINI: 1.self intro 
+2.coding : string consists both lower and upper case letters print output as all upper characters without using inbuilt functions and ASCII value
+Generate ASCII with your own code and write program by using functions 
+3.storage classes in c 
+4.what is malloc 
+5.return type of void 
+6.what is void 
+7.what is microprocessor and microcontroller
+[4:56 pm, 16/03/2023] SHAIK CHANDINI: 20B01A05G0
+1.self intro 
+2.coding : string consists both lower and upper case letters print output as all upper characters without using inbuilt functions and ASCII value
+Generate ASCII with your own code and write program by using functions 
+3.storage classes in c 
+4.what is malloc 
+5.return type of malloc 
+6.what is void 
+7.what is microprocessor and microcontroller
+[5:16 pm, 16/03/2023] VEDURUPARTHI VIJAYA SATYA TEJASWINI: 20B01A05I1
+1.Self intro
+2.projects
+3.coding : convert decimal to hexadecimal
+4. Double linked list
+5. Code to split a sentence
+6. What is IP address
+[5:29 pm, 16/03/2023] TORAM SATYAVARSHA NANDITHA: 20B01A05H0
+1. Self intro
+2. Detailed explanation about each project and questions on then
+3. Detect the cycle in a linked list
+4. Questions about stacks and queues and its operations
+5. Implement 2 stacks in the form of one queue
+6. Which roles I'm interested in and how can I adjust in different role other than the role I'm interested in.
+[6:15 pm, 16/03/2023] VEERAMALLA LAKSHMI DURGA: 20b01a05i2 
+1. My experience in we program 
+Asked few questions about we program
+2. Program to print 1 to 100 prime numbers
+3.why do u want to work in semiconductors company
+4. Implementationof the code
+ I/p : a3b5d7g8
+O/p: g8d7b5a3
+5.do u want to ask me any questions
+[6:20 pm, 16/03/2023] +91 89784 31149: 20B01A12B3
+1.self intro
+2.OOPS Concepts(polymorphism and types )
+3.Asked to write a basic code in Java in notepad.
+4.Types of inheritance and Why no multiple inheritance in Java?
+5.wrapper classes in Java and asked about util package.
+6.Asked me write code on how to create a linkedlist and remove duplicates from it.
+7.Codes on strings and lists.
+8.Rate myself in Java and C.
+[6:33 pm, 16/03/2023] +91 77998 91219: 20B01A5435
+There are 2 interviewers
+1. Intro
+2. About projects and internships done
+3. Decimal to binary and octal conversion code with explanation.
+4. 2 basic puzzles
+5. About github 
+6. nth Fibonacci number
+7. Python Data structures
+8. OS definition and services
+9. Current trends in computer science.
+10. About Chat GPT and model used
+11. Doubly linked list and its structure
+12. Toughest situation faced, while doing data science project.
+13. Linux commands
+14. Question on resume
+[8:20 pm, 16/03/2023] VADITYA KALYANI: 1.Data types in c
+2.About project
+3.asked about role in the project
+5.Internal working of jvm,jre,jdk and differences
+Recursive functions
+6.Decorators in python
+7.asked to write some codes 8.List,tuple, dictionaries & operations
+9.Final keyword
+10.Abstracts and interfaces 
+11.Access modifiers and how they works 
+12.Modules in python
+13.regex method 
+14.print only digits in a given string using regular expression 
+15.print current time using module
+16.about macros in c
+17.given an array and find out if given target sum is present in an array or not.
+
+***
